@@ -2,22 +2,26 @@
 main:
   - title: "Research"
     url: /research/
-    
-  - title: "Code & Software"
-    url: /code-software/
    
   - title: "Publications"
     url: /publications/
     
+  - title: "Code & Software"
+    url: /code-software/
+    
   - title: "Conferences"
     url: /conferences/
+   
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Blogs"
+    url: /blogs/
     
   - title: "News"
     url: /news/
-    
+       
   - title: "Gallery"
     url: /gallery/
-    
-  - title: "CV"
-    url: /cv/
+
     
