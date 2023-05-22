@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "YongchengYAO"
   avatar           : "yongchengyao.JPG"
-  bio              : "Research Assistant at the CU Lab of AI in Radiology (CLAIR)"
-  location         :
-  employer         : "The Chinese University <br/> of Hong Kong"
+  bio              : "Research Assistant at the CU Lab of AI in Radiology (CLAIR) <br> <br> The Chinese University of Hong Kong"
+  location         : "Hong Kong"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hXG5NXAAAAAJ&hl=en"
   email            :
