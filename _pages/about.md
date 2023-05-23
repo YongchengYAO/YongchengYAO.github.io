@@ -20,3 +20,11 @@ My research interests lie in the intersection of medical image analysis and deep
 In general, my passion lies not only in developing efficient algorithms to solve technical problems but also in bridging the gap between research and practical applications. I am interested in tackling various challenges in biomedical AI, including data privacy, data imbalance, and domain shift problems. In the coming years, I will focus on the intersection field of medical image analysis and deep learning, with a vision to improve clinical workflow via technical innovation.
 
 Previously, I was working on computational neuroscience. Specifically, we analysed structural and functional brain MR images using morphometrics, statistical parametric mapping, connectivity analysis, graph-theory-based analysis, and machine learning.
+
+
+
+Latest News
+------
+* [05/2023] Our work on "Deep-Learning-Based Knee Articular Cartilage Morphometrics" will be showcased at the poster session "Knee Imaging in Osteoarthritis" during #ISMRM2023. [17:00 (Toronto), 5 June 2023, program #2457, computer #107]
+
+  
