@@ -27,12 +27,6 @@ Computer Methods and Programs in Biomedicine, 2022. [[paper](https://www.science
 <br /><br /><br />
 
 
-<img align="left" width="300" src="/_pages/publications.assets/paper-PSD-2020.png" style="margin-right: 15px" /> 
-**Topological reorganization of the default mode network in patients with poststroke depressive symptoms: A resting-state fMRI study**\
-Liang Yan, **Yao Yong-Cheng**, Zhao Lei, Shi Lin, Chen Yang-Kun, Mok Vincent CT, Gabor S. Ungvari, Chu Winnie CW, Tang Wai-Kwong\
-Journal of Affective Disorders, 2020. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0165032719302915)] <br />
-<br /><br /><br />
-
 <img align="left" width="300" src="/_pages/publications.assets/paper-AD-brainNetwork.png" style="margin-right: 15px" /> 
 **Altered Topological Properties of Functional Brain Network Associated with Alzheimer's Disease**\
 **Yongcheng Yao**, 2023. [[arxiv](https://arxiv.org/abs/2305.08159)] <br />
@@ -42,4 +36,11 @@ Journal of Affective Disorders, 2020. [[paper](https://www.sciencedirect.com/sci
 <img align="left" width="300" src="/_pages/publications.assets/paper-AD-connectivity.png" style="margin-right: 15px" /> 
 **Abnormal Functional Brain Network Connectivity Associated with Alzheimer's Disease**\
 **Yongcheng Yao**, 2023. [[arxiv](https://arxiv.org/abs/2305.09186)] <br />
+<br /><br /><br />
+
+
+<img align="left" width="300" src="/_pages/publications.assets/paper-PSD-2020.png" style="margin-right: 15px" /> 
+**Topological reorganization of the default mode network in patients with poststroke depressive symptoms: A resting-state fMRI study**\
+Liang Yan, **Yao Yong-Cheng**, Zhao Lei, Shi Lin, Chen Yang-Kun, Mok Vincent CT, Gabor S. Ungvari, Chu Winnie CW, Tang Wai-Kwong\
+Journal of Affective Disorders, 2020. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0165032719302915)] <br />
 <br /><br /><br />
