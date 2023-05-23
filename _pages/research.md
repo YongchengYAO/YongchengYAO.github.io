@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -17,7 +16,7 @@ Word Cloud
 This is the word cloud generated from the titles of our publications. (last updated: 23 May 2023)
 
 <p align="center"> 
-  <img width="300" src="/_pages/research.assets/ycyao_wordCloud.png" />
+  <img width="500" src="/_pages/research.assets/ycyao_wordCloud.png" />
 </p>
 
 
