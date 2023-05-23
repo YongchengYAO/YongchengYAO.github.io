@@ -5,12 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+For a full list of our publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=hXG5NXAAAAAJ&hl=en).
+
+Selected Publications
+------
+
+<img align="left" width="300" src="/_pages/publications.assets/paper-CartiMorph.png" style="margin-right: 15px" /> 
+
+**CartiMorph: a framework for automated knee articular cartilage morphometrics**\
+Yongcheng Yao, Junru Zhong, Liping Zhang, Sheheryar Khan, Weitian Chen\
+(submitted to Medical Image Analysis on Oct 2022) <br />
+<br />
