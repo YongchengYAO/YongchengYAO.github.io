@@ -13,7 +13,7 @@ I am a research assistant at the CU Lab of AI in Radiology (CLAIR), The Chinese 
 Research Interest
 ------
 
-**Keywords**: **medical image analysis**, **deep learning**, **artificial intelligence**, **segmentation**, **registration**, **classification**, **model bias & fairness**, **data privacy**, **data imbalance**, **domain shift**
+[**medical image analysis**, **deep learning**, **artificial intelligence**, **segmentation**, **registration**, **classification**, **model bias & fairness**, **data privacy**, **data imbalance**, **domain shift**]
 
 My research interests lie in the intersection of medical image analysis and deep learning/artificial intelligence (DL/AI). Specifically, I am interested in using DL/AI for image segmentation, registration, and classification. In addition to exploring efficient model structures and training strategies, I believe the interpretability of deep learning models is an important research topic for biomedical AI. As such, I am also interested in model bias & fairness. 
 
