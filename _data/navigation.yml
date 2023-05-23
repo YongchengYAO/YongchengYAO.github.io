@@ -6,20 +6,20 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Code & Software"
-    url: /code-software/
-    
   - title: "Conferences"
     url: /conferences/
+    
+  - title: "Code & Software"
+    url: /code-software/
    
   - title: "CV"
     url: /cv/
     
-  - title: "Blogs"
-    url: /blogs/
-    
   - title: "News"
     url: /news/
+    
+  - title: "Blogs"
+    url: /blogs/
        
   - title: "Gallery"
     url: /gallery/
