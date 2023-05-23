@@ -7,10 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+
+
+We have been working on knee MR image analysis using deep learning and quantification algorithms. Our research topics include image segmentation, classification, quantification, and domain adaptation. Before I joined CLAIR, I was working on computational neuroscience associated with Alzheimer’s Disease, depression,  and schizophrenia.
+
 Word Cloud
 ======
 
-This is the word cloud generated from the titles of our publications. We have been working on knee MR image analysis using deep learning and quantification algorithms. Our research topics include image segmentation, classification, quantification, and domain adaptation. Before I joined CLAIR, I was working on computational neuroscience associated with Alzheimer’s Disease, depression,  and schizophrenia.
+This is the word cloud generated from the titles of our publications. 
 
 (last updated: 23 May 2023)
 
