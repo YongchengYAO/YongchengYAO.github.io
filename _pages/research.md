@@ -14,13 +14,12 @@ We have been working on knee MR image analysis using deep learning and quantific
 Word Cloud
 ======
 
-This is the word cloud generated from the titles of our publications. 
-
-(last updated: 23 May 2023)
+This is the word cloud generated from the titles of our publications. (last updated: 23 May 2023)
 
 <p align="center"> 
-  <img width="600" src="/_pages/research.assets/ycyao_wordCloud.png" />
+  <img width="300" src="/_pages/research.assets/ycyao_wordCloud.png" />
 </p>
+
 
 
 On-going Projects
