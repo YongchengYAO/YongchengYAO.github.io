@@ -13,7 +13,7 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 Selected Publications
 ------
 
-<img align="left" width="300" src="/_pages/publications.assets/paper-CartiMorph.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/_pages/publications.assets/paper-CartiMorph-bw.png" style="margin-right: 15px" /> 
 
 **CartiMorph: a framework for automated knee articular cartilage morphometrics**\
 Yongcheng Yao, Junru Zhong, Liping Zhang, Sheheryar Khan, Weitian Chen\
