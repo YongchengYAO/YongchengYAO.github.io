@@ -20,13 +20,6 @@ Selected Publications
 <br /><br /><br />
 
 
-<img align="left" width="300" src="/_pages/publications.assets/paper-alphaMatte-2022.png" style="margin-right: 15px" /> 
-**Deep collaborative network with alpha matte for precise knee tissue segmentation from MRI**\
-Sheheryar Khan, Basim Azam, **Yongcheng Yao**, Weitian Chen\
-Computer Methods and Programs in Biomedicine, 2022. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260722003455)] <br />
-<br /><br /><br />
-
-
 <img align="left" width="300" src="/_pages/publications.assets/paper-AD-brainNetwork.png" style="margin-right: 15px" /> 
 **Altered Topological Properties of Functional Brain Network Associated with Alzheimer's Disease**\
 **Yongcheng Yao**\
@@ -38,6 +31,13 @@ arXiv:2305.08159 (2023). [[arxiv](https://arxiv.org/abs/2305.08159)] <br />
 **Abnormal Functional Brain Network Connectivity Associated with Alzheimer's Disease**\
 **Yongcheng Yao**\
 arXiv:2305.09186 (2023). [[arxiv](https://arxiv.org/abs/2305.09186)] <br />
+<br /><br /><br />
+
+
+<img align="left" width="300" src="/_pages/publications.assets/paper-alphaMatte-2022.png" style="margin-right: 15px" /> 
+**Deep collaborative network with alpha matte for precise knee tissue segmentation from MRI**\
+Sheheryar Khan, Basim Azam, **Yongcheng Yao**, Weitian Chen\
+Computer Methods and Programs in Biomedicine, 2022. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260722003455)] <br />
 <br /><br /><br />
 
 
