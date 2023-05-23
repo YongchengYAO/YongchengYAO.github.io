@@ -19,20 +19,17 @@ Selected Publications
 (submitted to Medical Image Analysis in Oct 2022) <br />
 <br /><br /><br />
 
-
 <img align="left" width="300" src="/_pages/publications.assets/paper-AD-brainNetwork.png" style="margin-right: 15px" /> 
 **Altered Topological Properties of Functional Brain Network Associated with Alzheimer's Disease**\
 **Yongcheng Yao**\
-arXiv:2305.08159 (2023). [[arxiv](https://arxiv.org/abs/2305.08159)] <br />
+arXiv:2305.08159 (2023). [[arxiv](https://arxiv.org/abs/2305.08159)] [[data](https://github.com/YongchengYAO/AD-FunctionalBrainNetwork)] <br />
 <br /><br /><br />
-
 
 <img align="left" width="300" src="/_pages/publications.assets/paper-AD-connectivity.png" style="margin-right: 15px" /> 
 **Abnormal Functional Brain Network Connectivity Associated with Alzheimer's Disease**\
 **Yongcheng Yao**\
-arXiv:2305.09186 (2023). [[arxiv](https://arxiv.org/abs/2305.09186)] <br />
+arXiv:2305.09186 (2023). [[arxiv](https://arxiv.org/abs/2305.09186)] [[data](https://github.com/YongchengYAO/AD-FunctionalConnectivity)] <br />
 <br /><br /><br />
-
 
 <img align="left" width="300" src="/_pages/publications.assets/paper-alphaMatte-2022.png" style="margin-right: 15px" /> 
 **Deep collaborative network with alpha matte for precise knee tissue segmentation from MRI**\
