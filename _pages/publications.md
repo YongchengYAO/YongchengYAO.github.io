@@ -17,7 +17,7 @@ Selected Publications
 
 **CartiMorph: a framework for automated knee articular cartilage morphometrics**\
 **Yongcheng Yao**, Junru Zhong, Liping Zhang, Sheheryar Khan, Weitian Chen\
-(submitted to Medical Image Analysis in Oct 2022) 
+(submitted to Medical Image Analysis in Oct 2022) <br />
 <br />
 
 
@@ -25,7 +25,16 @@ Selected Publications
 
 **Deep collaborative network with alpha matte for precise knee tissue segmentation from MRI**\
 Sheheryar Khan, Basim Azam, **Yongcheng Yao**, Weitian Chen\
-Computer Methods and Programs in Biomedicine, 2022\
+Computer Methods and Programs in Biomedicine, 2022 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260722003455)] <br />
+<br />
+
+
+<img align="left" width="300" src="/_pages/publications.assets/paper-PSD-2020.png" style="margin-right: 15px" /> 
+
+**Topological reorganization of the default mode network in patients with poststroke depressive symptoms: A resting-state fMRI study**\
+Liang Yan, **Yao Yong-Cheng**, Zhao Lei, Shi Lin, Chen Yang-Kun, Mok Vincent CT, Gabor S. Ungvari, Chu Winnie CW, Tang Wai-Kwong\
+Journal of Affective Disorders, 2020 <br />
+<br />
 
 
 
