@@ -15,8 +15,9 @@ This is the word cloud generated from the titles of our publications. We have be
 (last updated: 23 May 2023)
 
 <p align="center"> 
-  <img width="600" src="research.assets/ycyao_wordCloud.png" />
+  <img width="600" src="/_pages/research.assets/ycyao_wordCloud.png" />
 </p>
+
 
 On-going Projects
 ======
