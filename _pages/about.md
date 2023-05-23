@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at the CU Lab of AI in Radiology (CLAIR), The Chinese University of Hong Kong. I obtained my M.Phil. in Imaging and Interventional Radiology from CUHK in 2020, and my B.Eng. in Biomedical Engineering from South China University of China in 2017. 
+I am a research assistant at the CU Lab of AI in Radiology (CLAIR), The Chinese University of Hong Kong. I obtained my M.Phil. in Imaging and Interventional Radiology from CUHK in 2020, and my B.Eng. in Biomedical Engineering from South China University of Technology in 2017. 
 
 Research Interest
 ------
