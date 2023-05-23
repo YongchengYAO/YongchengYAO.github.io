@@ -29,14 +29,16 @@ Computer Methods and Programs in Biomedicine, 2022. [[paper](https://www.science
 
 <img align="left" width="300" src="/_pages/publications.assets/paper-AD-brainNetwork.png" style="margin-right: 15px" /> 
 **Altered Topological Properties of Functional Brain Network Associated with Alzheimer's Disease**\
-**Yongcheng Yao**, 2023. [[arxiv](https://arxiv.org/abs/2305.08159)] <br />
-<br /><br /><br /><br />
+**Yongcheng Yao**\
+arXiv:2305.08159 (2023). [[arxiv](https://arxiv.org/abs/2305.08159)] <br />
+<br /><br /><br />
 
 
 <img align="left" width="300" src="/_pages/publications.assets/paper-AD-connectivity.png" style="margin-right: 15px" /> 
 **Abnormal Functional Brain Network Connectivity Associated with Alzheimer's Disease**\
-**Yongcheng Yao**, 2023. [[arxiv](https://arxiv.org/abs/2305.09186)] <br />
-<br /><br /><br /><br />
+**Yongcheng Yao**\
+arXiv:2305.09186 (2023). [[arxiv](https://arxiv.org/abs/2305.09186)] <br />
+<br /><br /><br />
 
 
 <img align="left" width="300" src="/_pages/publications.assets/paper-PSD-2020.png" style="margin-right: 15px" /> 
