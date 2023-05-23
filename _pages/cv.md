@@ -25,3 +25,19 @@ Patent
 * System and Method for Automatic Articular Cartilage Thickness Mapping. (US provisional patent, filed)
 * System and Method for Articular Cartilage Thickness Mapping and Lesion Quantification. (US patent, filed)
 
+
+Funding
+------
+* Patent Application Fund, The Chinese University of Hong Kong (2022).
+
+
+Award
+------
+* Silver Medal, International Exhibition of Inventions Geneva (2022).
+
+
+Scholarship
+------
+* The Keyuan Scholarship, South China University of Technology (2016).
+* The Longsun Scholarship, South China University of Technology (2015).
+* The Dow Scholarship, South China University of Technology (2014).
