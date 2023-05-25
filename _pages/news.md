@@ -16,7 +16,7 @@ author_profile: true
 * [09/2022] We received the Patent Application Fund (PAF) from CUHK.
 * [09/2022] Our awarded project was highlighted at the CUHK Entrepreneur Day ([link, Chinese only](https://www.cuhkeday2022.com/post/genevainventions)).
 * [06/2022] Our interview with Sing Tao Daily was online.
-* [032022] Our invention “System for Automatic Articular Cartilage Thickness Mapping” won a Silver Medal at the 48th Geneva International Exhibition of Inventions (Geneva 2022) ([CUHK news](https://www.cpr.cuhk.edu.hk/en/press/cuhk-innovations-excel-at-the-international-exhibition-of-inventions-geneva-2022/
+* [03/2022] Our invention “System for Automatic Articular Cartilage Thickness Mapping” won a Silver Medal at the 48th Geneva International Exhibition of Inventions (Geneva 2022) ([CUHK news](https://www.cpr.cuhk.edu.hk/en/press/cuhk-innovations-excel-at-the-international-exhibition-of-inventions-geneva-2022/
   )).
 * [02/2022] Our work “A Systematic Cartilage Surface Segmentation Method for Cartilage Thickness Mapping” was accepted for oral presentation @ISMRM2022.
 * [01/2022] We filed a US provisional patent for our invention “System and Method for Automatic Articular Cartilage Thickness Mapping”.
