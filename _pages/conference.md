@@ -27,7 +27,7 @@ poster presentation @ISMRM2023  [[video](https://youtu.be/O90_eEMYcyM)]<br />
 <img align="left" width="300" src="/_pages/conference.assets/conference-ISMRM22.png" style="margin-right: 15px" /> 
 **A Systematic Cartilage Surface Segmentation Method for Cartilage Thickness Mapping**\
 **Yongcheng Yao**, Dόnal G. Cahill, James F. Grith, Weitian Chen\
-oral presentation @ISMRM2022 <br />
+oral presentation @ISMRM2022 [[video](https://youtu.be/iii6XjxoKLg)]<br />
 <br /><br /><br />
 
 <img align="left" width="300" src="/_pages/conference.assets/conference-ISMRM21.png" style="margin-right: 15px" /> 
