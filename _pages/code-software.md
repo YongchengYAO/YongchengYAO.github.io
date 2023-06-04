@@ -11,7 +11,7 @@ author_profile: true
 
 Code
 ------
-- [**CartiMorph**](https://github.com/YongchengYAO/CartiMorph):  a framework for automated knee articular cartilage morphometrics
+- [**CartiMorph**](https://github.com/YongchengYAO/CartiMorph):  a framework for automated knee articular cartilage morphometrics [[videos](https://youtube.com/playlist?list=PLhxxO44GqCRB9JvR9hqdeWP1t7XAfx_9r)]
 
 
 Software
