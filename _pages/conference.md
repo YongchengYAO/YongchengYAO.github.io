@@ -21,7 +21,7 @@ Selected Conference Presentations
 <img align="left" width="300" src="/_pages/conference.assets/conference-ISMRM23.png" style="margin-right: 15px" /> 
 **Deep-Learning-Based Knee Articular Cartilage Morphometrics**\
 **Yongcheng Yao**, Weitian Chen\
-poster presentation @ISMRM2023  [[video](https://youtu.be/O90_eEMYcyM)]<br />
+poster presentation @ISMRM2023  [[video](https://youtu.be/9b94d4W6e1g)]<br />
 <br /><br /><br /><br />
 
 <img align="left" width="300" src="/_pages/conference.assets/conference-ISMRM22.png" style="margin-right: 15px" /> 
