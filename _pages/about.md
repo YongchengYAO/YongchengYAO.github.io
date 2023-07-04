@@ -25,6 +25,6 @@ Previously, I was working on computational neuroscience. Specifically, we analys
 
 Latest News
 ------
-* [05/2023] Our work on "Deep-Learning-Based Knee Articular Cartilage Morphometrics" will be showcased at the poster session "Knee Imaging in Osteoarthritis" during #ISMRM2023. [17:00 (Toronto), 5 June 2023, program #2457, computer #107]
+* [07/2023] Our paper “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA, Q1, 2023 IF=13.828).
 
   

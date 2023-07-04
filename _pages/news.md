@@ -9,6 +9,7 @@ author_profile: true
 
 
 
+* [07/2023] Our paper “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA, Q1, 2023 IF=13.828).
 * [02/2023] Our work “Deep-Learning-Based Knee Articular Cartilage Morphometrics” was accepted for poster presentation @ISMRM2023.
 * [01/2023] We filed a US patent for the invention “System and Method for Articular Cartilage Thickness Mapping and Lesion Quantification”.
 * [11/2022] We showcased our invention at the Hong Kong International Medical and Healthcare Fair 2022 (also at the CUHK’s online exhibition “[Innovation For Better Life](https://exhibition.cintec.cuhk.edu.hk/projects/system-for-automatic-articular-cartilage-thickness-mapping/)”).
