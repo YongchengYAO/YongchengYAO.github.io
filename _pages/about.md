@@ -25,6 +25,6 @@ Previously, I was working on computational neuroscience. Specifically, we analys
 
 Latest News
 ------
-* [07/2023] Our paper “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA, Q1, 2023 IF=13.828).
+* [07/2023] Our paper “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA).
 
   
