@@ -16,7 +16,7 @@ Selected Publications
 <img align="left" width="300" src="/_pages/publications.assets/paper-CartiMorph-bw.png" style="margin-right: 15px" /> 
 **CartiMorph: a framework for automated knee articular cartilage morphometrics**\
 **Yongcheng Yao**, Junru Zhong, Liping Zhang, Sheheryar Khan, Weitian Chen\
-(Medical Image Analysis, accepted) [[code](https://github.com/YongchengYAO/CartiMorph)]<br />
+(Medical Image Analysis, accepted) [[code](https://github.com/YongchengYAO/CartiMorph)] [[arxiv](https://arxiv.org/abs/2308.01981)]<br />
 <br /><br /><br />
 
 <img align="left" width="300" src="/_pages/publications.assets/paper-AD-brainNetwork.png" style="margin-right: 15px" /> 
