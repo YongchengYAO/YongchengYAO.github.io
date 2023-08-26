@@ -9,6 +9,7 @@ author_profile: true
 
 
 
+* [08/2023] I received an offer for seed funding from the [**HKSTP Ideation**](https://www.hkstp.org/innovate-with-us/passion-matters/incubation-and-acceleration/ideation/) program.
 * [07/2023] Our paper “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA).
 * [02/2023] Our work “Deep-Learning-Based Knee Articular Cartilage Morphometrics” was accepted for poster presentation @ISMRM2023.
 * [01/2023] We filed a US patent for the invention “System and Method for Articular Cartilage Thickness Mapping and Lesion Quantification”.
