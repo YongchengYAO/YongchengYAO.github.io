@@ -17,7 +17,7 @@ Education
 
 Work experience
 ------
-* 2020 - current: Research Assistant, CU Lab of AI in Radiology (CLAIR), Chinese University of Hong Kong
+* 2020 - 2023: Research Assistant, CU Lab of AI in Radiology (CLAIR), Chinese University of Hong Kong
 
 
 Patent
