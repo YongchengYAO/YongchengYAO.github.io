@@ -20,7 +20,7 @@ Selected Publications
 <br /><br /><br />
 
 <img align="left" width="300" src="/_pages/publications.assets/paper-UDA-OA-Phenotype.png" style="margin-right: 15px" /> 
-**Unsupervised Domain Adaptation for Automated Knee Osteoarthritis Phenotype Classification**
+**Unsupervised Domain Adaptation for Automated Knee Osteoarthritis Phenotype Classification**\
 Junru Zhong\*, **Yongcheng Yao\***, Dόnal G. Cahill, Fan Xiao, Siyue Li, Jack Lee, Kevin Ki-Wai Ho, Michael Tim-Yun Ong, James F. Griffith, Weitian Chen\
 Quantitative Imaging in Medicine and Surgery, 2023. [[paper](https://qims.amegroups.org/article/view/118224/html#figure1)] [[arxiv](https://doi.org/10.48550/arXiv.2212.07023)] <br />
 <br /><br /><br />
