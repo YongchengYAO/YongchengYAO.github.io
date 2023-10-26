@@ -25,6 +25,8 @@ Previously, I was working on computational neuroscience. Specifically, we analys
 
 Latest News
 ------
+* [10/2023] A [paper](https://qims.amegroups.org/article/view/118224/html#figure1) on unsupervised domain adaptation for osteoarthritis phenotype classification was online (co-first author).
+
 * [08/2023] I received an offer for seed funding from the [HKSTP Ideation](https://www.hkstp.org/innovate-with-us/passion-matters/incubation-and-acceleration/ideation/) program.
 
 * [07/2023] Our paper “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA).
