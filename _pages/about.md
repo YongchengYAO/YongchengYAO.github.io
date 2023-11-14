@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a student at the [CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai/about), The University of Edinburgh. Previously, I was a research assistant at the CU Lab of AI in Radiology ([CLAIR](http://www.diir.cuhk.edu.hk/research/medical-image-computing-and-artificial-intelligence/)), The Chinese University of Hong Kong (CUHK), where I worked with Prof. [Weitian Chen](http://www.diir.cuhk.edu.hk/profile/chen-weitian/). I obtained my M.Phil. in Imaging and Interventional Radiology from CUHK in 2020, and my B.Eng. in Biomedical Engineering from South China University of Technology in 2017. 
+I am a doctoral researcher at the [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai), University of Edinburgh. Previously, I was a research assistant at the CU Lab of AI in Radiology ([CLAIR](http://www.diir.cuhk.edu.hk/research/medical-image-computing-and-artificial-intelligence/)), Chinese University of Hong Kong (CUHK), where I worked with Prof. [Weitian Chen](http://www.diir.cuhk.edu.hk/profile/chen-weitian/). I obtained my M.Phil. in Imaging and Interventional Radiology from CUHK in 2020, and my B.Eng. in Biomedical Engineering from South China University of Technology in 2017. 
 
 Research Interest
 ------
