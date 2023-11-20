@@ -11,7 +11,7 @@ author_profile: true
 
 * [10/2023] A [paper](https://qims.amegroups.org/article/view/118224/html) on unsupervised domain adaptation for osteoarthritis phenotype classification was online (co-first author).
 * [08/2023] I received an offer for seed funding from the [HKSTP Ideation](https://www.hkstp.org/innovate-with-us/passion-matters/incubation-and-acceleration/ideation/) program.
-* [07/2023] Our paper “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA).
+* [07/2023] Our [paper](https://www.sciencedirect.com/science/article/pii/S1361841523002955?via%3Dihub) “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA).
 * [02/2023] Our work “Deep-Learning-Based Knee Articular Cartilage Morphometrics” was accepted for poster presentation @ISMRM2023.
 * [01/2023] We filed a US patent for the invention “System and Method for Articular Cartilage Thickness Mapping and Lesion Quantification”.
 * [11/2022] We showcased our invention at the Hong Kong International Medical and Healthcare Fair 2022 (also at the CUHK’s online exhibition “[Innovation For Better Life](https://exhibition.cintec.cuhk.edu.hk/projects/system-for-automatic-articular-cartilage-thickness-mapping/)”).

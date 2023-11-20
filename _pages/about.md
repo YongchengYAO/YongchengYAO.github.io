@@ -29,6 +29,6 @@ Latest News
 
 * [08/2023] I received an offer for seed funding from the [HKSTP Ideation](https://www.hkstp.org/innovate-with-us/passion-matters/incubation-and-acceleration/ideation/) program.
 
-* [07/2023] Our paper “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA).
+* [07/2023] Our [paper](https://www.sciencedirect.com/science/article/pii/S1361841523002955?via%3Dihub) “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA).
 
   
