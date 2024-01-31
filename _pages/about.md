@@ -13,11 +13,11 @@ I am a doctoral researcher at the [UKRI CDT in Biomedical AI](https://web.inf.ed
 Research Interest
 ------
 
-[**Generative AI**, **Probabilistic ML**] $\longleftarrow$ very interesting and worth exploring
+[**Machine Learning**, **Computer Vision**, **Pattern Recognition**, **Probabilistic ML**] 
 
-[**medical image analysis**, **deep learning**, **artificial intelligence**, **segmentation**, **registration**, **classification**, **model bias & fairness**, **data privacy**, **data imbalance**, **domain shift**] (updated on 20 Nov 2023)
+[**medical image analysis**, **deep learning**, **segmentation**, **registration**, **classification**, **model bias & fairness**, **data imbalance**, **domain shift**] (updated on Jan 2024)
 
-My research interests lie in the intersection of medical image analysis and deep learning/artificial intelligence (DL/AI). Specifically, I am interested in using DL/AI for image segmentation, registration, and classification. In addition to exploring efficient model structures and training strategies, I believe the interpretability of deep learning models is an important research topic for biomedical AI. As such, I am also interested in model bias & fairness. 
+My research interests lie in the intersection of medical image analysis and deep learning/artificial intelligence (DL/AI). My previous research projects are about DL/AI for medical image segmentation, registration, and classification. In addition to exploring efficient model structures and training strategies, I believe the interpretability of deep learning models is an important research topic for biomedical AI. As such, I am also interested in explainable ML, probabilistic ML, and model bias & fairness. Generally, I am open to biomedical computer vision \& pattern recognition tasks.
 
 In general, my passion lies not only in developing efficient algorithms to solve technical problems but also in bridging the gap between research and practical applications. I am interested in tackling various challenges in biomedical AI, including data privacy, data imbalance, and domain shift problems. In the coming years, I will focus on the intersection field of medical image analysis and deep learning, with a vision to improve clinical workflow via technical innovation.
 
@@ -27,9 +27,9 @@ Previously, I was working on computational neuroscience. Specifically, we analyz
 
 Latest News
 ------
-* [10/2023] A [paper](https://qims.amegroups.org/article/view/118224/html) on unsupervised domain adaptation for osteoarthritis phenotype classification was online (co-first author).
+* [01/2024] A work on automatic and quantitative T1rho analysis from knee MRI was accepted for presentation @ISMRM2024.
 
-* [08/2023] I received an offer for seed funding from the [HKSTP Ideation](https://www.hkstp.org/innovate-with-us/passion-matters/incubation-and-acceleration/ideation/) program.
+* [10/2023] A [paper](https://qims.amegroups.org/article/view/118224/html) on unsupervised domain adaptation for osteoarthritis phenotype classification was online (co-first author).
 
 * [07/2023] Our [paper](https://doi.org/10.1016/j.media.2023.103035) “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA).
 

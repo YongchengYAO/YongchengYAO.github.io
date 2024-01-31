@@ -9,6 +9,7 @@ author_profile: true
 
 
 
+* [01/2024] A work on automatic and quantitative T1rho analysis from knee MRI was accepted for presentation @ISMRM2024.
 * [10/2023] A [paper](https://qims.amegroups.org/article/view/118224/html) on unsupervised domain adaptation for osteoarthritis phenotype classification was online (co-first author).
 * [08/2023] I received an offer for seed funding from the [HKSTP Ideation](https://www.hkstp.org/innovate-with-us/passion-matters/incubation-and-acceleration/ideation/) program.
 * [07/2023] Our [paper](https://doi.org/10.1016/j.media.2023.103035) “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA).
