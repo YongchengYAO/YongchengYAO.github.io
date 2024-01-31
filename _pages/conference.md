@@ -41,18 +41,24 @@ poster presentation @ISMRM2021 <br />
 Other Conference Presentations
 ------
 
+* **A systematic automated post-processing approach for quantitative analysis of 3D T1$\rho$ knee MRI**\
+
+  Junru Zhong, **Yongcheng Yao**, Fan Xiao, Michael Tim-Yun Ong, Kevin Ki-Wai Ho, Queenie Chan, James F Griffith, Weitian Chen\
+
+  poster presentation @ISMRM2024
+
 * **Unsupervised Domain Adaptation for Automated Knee Osteoarthritis Phenotype Classification**\
-Junru Zhong, **Yongcheng Yao**, Dόnal G Cahill, Fan Xiao, Siyue Li, Jack Lee, Kevin Ki-Wai Ho, Michael Tim-Yun Ong, James F Griffith, Weitian Chen\
-poster presentation @ISMRM2023 
+  Junru Zhong, **Yongcheng Yao**, Dόnal G Cahill, Fan Xiao, Siyue Li, Jack Lee, Kevin Ki-Wai Ho, Michael Tim-Yun Ong, James F Griffith, Weitian Chen\
+  poster presentation @ISMRM2023 
 
 * **Knee Osteoarthritis: Automatic Grading with Deep Learning**\
-Junru Zhong, **Yongcheng Yao**, Sheheryar Khan, Fan Xiao, Dόnal G. Cahill, James F. Grith, Weitian Chen\
-oral presentation @ISMRM2022
+  Junru Zhong, **Yongcheng Yao**, Sheheryar Khan, Fan Xiao, Dόnal G. Cahill, James F. Grith, Weitian Chen\
+  oral presentation @ISMRM2022
 
 * **Deep Learning-based Semi-supervised Meniscus Segmentation with Uncertainty Estimation**\
-Siyue Li, Shutian Zhao, **Yongcheng Yao**, Weitian Chen\
-oral presentation @ISMRM2021
+  Siyue Li, Shutian Zhao, **Yongcheng Yao**, Weitian Chen\
+  oral presentation @ISMRM2021
 
 * **Brain Activity Indexing via Network Clustering**\
-**Yongcheng Yao**, Dylan Ho, Lin Shi\
-oral presentation @ICBME 2019
+  **Yongcheng Yao**, Dylan Ho, Lin Shi\
+  oral presentation @ICBME 2019
