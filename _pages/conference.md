@@ -42,9 +42,7 @@ Other Conference Presentations
 ------
 
 * **A systematic automated post-processing approach for quantitative analysis of 3D T1$\rho$ knee MRI**\
-
   Junru Zhong, **Yongcheng Yao**, Fan Xiao, Michael Tim-Yun Ong, Kevin Ki-Wai Ho, Queenie Chan, James F Griffith, Weitian Chen\
-
   poster presentation @ISMRM2024
 
 * **Unsupervised Domain Adaptation for Automated Knee Osteoarthritis Phenotype Classification**\
