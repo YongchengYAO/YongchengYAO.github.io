@@ -13,11 +13,11 @@ I am a doctoral researcher at the [UKRI CDT in Biomedical AI](https://web.inf.ed
 Research Interest
 ------
 
-[**Machine Learning**, **Computer Vision**, **Pattern Recognition**, **Probabilistic ML**] 
+[**Machine Learning**, **Computer Vision**, **Probabilistic ML**, **Data-efficient ML**] 
 
-[**medical image analysis**, **deep learning**, **segmentation**, **registration**, **classification**, **model bias & fairness**, **data imbalance**, **domain shift**] (updated on Jan 2024)
+[**medical image analysis**, **deep learning**, **segmentation**, **registration**, **classification**, **model bias & fairness**, **data imbalance**, **domain adaption**] (updated on Jan 2024)
 
-My research interests lie in the intersection of medical image analysis and deep learning/artificial intelligence (DL/AI). My previous research projects are about DL/AI for medical image segmentation, registration, and classification. In addition to exploring efficient model structures and training strategies, I believe the interpretability of deep learning models is an important research topic for biomedical AI. As such, I am also interested in explainable ML, probabilistic ML, and model bias & fairness. Generally, I am open to biomedical computer vision \& pattern recognition tasks.
+My research interests lie in the intersection of medical image analysis and deep learning/artificial intelligence (DL/AI). My previous research projects are about DL/AI for medical image segmentation, registration, and classification. In addition to exploring efficient model structures and training strategies, I believe the interpretability of deep learning models is an important research topic. As such, I am also interested in explainable ML, probabilistic ML, and model bias & fairness. Generally, I am open to biomedical computer vision & pattern recognition tasks.
 
 In general, my passion lies not only in developing efficient algorithms to solve technical problems but also in bridging the gap between research and practical applications. I am interested in tackling various challenges in biomedical AI, including data privacy, data imbalance, and domain shift problems. In the coming years, I will focus on the intersection field of medical image analysis and deep learning, with a vision to improve clinical workflow via technical innovation.
 
