@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher at the [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai), University of Edinburgh. Previously, I was a research assistant at the CU Lab of AI in Radiology ([CLAIR](http://www.diir.cuhk.edu.hk/research/medical-image-computing-and-artificial-intelligence/)), Chinese University of Hong Kong (CUHK), where I worked with Prof. [Weitian Chen](http://www.diir.cuhk.edu.hk/profile/chen-weitian/). I obtained my M.Phil. in Imaging and Interventional Radiology from CUHK in 2020, and my B.Eng. in Biomedical Engineering from South China University of Technology in 2017. 
+I am a doctoral researcher at the [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai), University of Edinburgh. Previously, I was a research assistant at the CU Lab of AI in Radiology (CLAIR), Chinese University of Hong Kong (CUHK), where I worked with Prof. Weitian Chen. I obtained my M.Phil. in Imaging and Interventional Radiology from CUHK in 2020, and my B.Eng. in Biomedical Engineering from South China University of Technology in 2017. 
 
 Research Interest
 ------
@@ -27,6 +27,8 @@ Previously, I was working on computational neuroscience. Specifically, we analyz
 
 Latest News
 ------
+* [06/2024] A [video](https://www.youtube.com/watch?v=8DbyavsZhF4) on soft tissue morphometrics in human knee is online.
+
 * [01/2024] A work on automatic and quantitative T1rho analysis from knee MRI was accepted for presentation @ISMRM2024.
 
 * [10/2023] A [paper](https://qims.amegroups.org/article/view/118224/html) on unsupervised domain adaptation for osteoarthritis phenotype classification was online (co-first author).
