@@ -32,7 +32,7 @@ Latest News
 
 * [06/2024] A [video](https://www.youtube.com/watch?v=8DbyavsZhF4) on soft tissue morphometrics in human knee is online.
 
-* [01/2024] A work on automatic and quantitative T1rho analysis from knee MRI was accepted for presentation @ISMRM2024.
+* [01/2024] A work on automatic and quantitative T1rho analysis from knee MRI was accepted for presentation @ISMRM’24.
 
 * [10/2023] A [paper](https://qims.amegroups.org/article/view/118224/html) on unsupervised domain adaptation for osteoarthritis phenotype classification was online (co-first author).
 
