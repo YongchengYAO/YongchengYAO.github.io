@@ -21,6 +21,7 @@ Selected Conference Presentations
 ------
 
 **Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics**\
+**Yongcheng Yao**, Weitian Chen\
 @AMAI'24 (MICCAI workshop)<br />
 <br /><br /><br />
 
