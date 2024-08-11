@@ -13,6 +13,14 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 Selected Publications
 ------
 
+
+
+<img align="left" width="300" src="/_pages/publications.assets/paper-CMT.png" style="margin-right: 15px" /> \
+**Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics**\
+**Yongcheng Yao**, Weitian Chen\
+Applications of Medical Artificial Intelligence (MICCAI workshop), 2024 (in press) <br />
+<br /><br /><br />
+
 <img align="left" width="300" src="/_pages/publications.assets/paper-CartiMorph.png" style="margin-right: 15px" /> \
 **CartiMorph: a framework for automated knee articular cartilage morphometrics**\
 **Yongcheng Yao**, Junru Zhong, Liping Zhang, Sheheryar Khan, Weitian Chen\
