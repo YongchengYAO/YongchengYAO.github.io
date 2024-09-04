@@ -7,6 +7,10 @@ author_profile: true
 
 
 {% include base_path %}
+* Poster for an AMAI'24 (MICCAI workshop) paper
+
+  <img align="centre" width="600" src="/_pages/gallery.assets/poster-AMAI24.pdf" style="margin-right: 15px" /> 
+
 
 * A poster about the framework and tools for knee cartilage morphometrics
 
