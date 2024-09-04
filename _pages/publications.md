@@ -19,7 +19,7 @@ Selected Publications
 **Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics**\
 **Yongcheng Yao**, Weitian Chen\
 Applications of Medical Artificial Intelligence (MICCAI workshop), 2024 (in press) <br />
-[[code](https://github.com/YongchengYAO/CMT-AMAI24paper)]
+[[code](https://github.com/YongchengYAO/CMT-AMAI24paper)] [[poster](https://github.com/YongchengYAO/yongchengyao.github.io/blob/master/_pages/gallery.assets/poster-AMAI24.pdf)]
 <br /><br /><br /><br />
 
 
@@ -27,7 +27,7 @@ Applications of Medical Artificial Intelligence (MICCAI workshop), 2024 (in pres
 <img align="left" width="300" src="/_pages/publications.assets/paper-CartiMorph.png" style="margin-right: 15px" /> \
 **CartiMorph: a framework for automated knee articular cartilage morphometrics**\
 **Yongcheng Yao**, Junru Zhong, Liping Zhang, Sheheryar Khan, Weitian Chen\
-Medical Image Analysis, 2024 [[code](https://github.com/YongchengYAO/CartiMorph)] [[paper](https://doi.org/10.1016/j.media.2023.103035)] [[video 1](https://www.youtube.com/watch?v=8DbyavsZhF4), [video 2](https://www.youtube.com/watch?v=p3b_UWN63bo)] <br />
+Medical Image Analysis, 2024 [[code](https://github.com/YongchengYAO/CartiMorph)] [[paper](https://doi.org/10.1016/j.media.2023.103035)] [[video 1](https://www.youtube.com/watch?v=8DbyavsZhF4), [video 2](https://www.youtube.com/watch?v=p3b_UWN63bo)] [[poster](https://github.com/YongchengYAO/yongchengyao.github.io/blob/master/_pages/gallery.assets/poster-Inf-ResearchDay2024-v2.pdf)] <br />
 <br /><br /><br />
 
 <img align="left" width="300" src="/_pages/publications.assets/paper-UDA-OA-Phenotype.png" style="margin-right: 15px" /> \
