@@ -12,7 +12,7 @@ author_profile: true
 | ------------ | ------------------------------------------------------------ |
 | **ISMRM**    | Annual meeting of the **I**nternational **S**ociety for **M**agnetic **R**esonance in **M**edicine |
 | **ICBME**    | **I**nternational **C**onference on **B**io**M**edical **E**ngineering |
-| **MICCAI**   | International Conference on **M**edical **I**mage **C**omputing and **C**omputer **A**ssisted **I**ntervention, |
+| **MICCAI**   | International Conference on **M**edical **I**mage **C**omputing and **C**omputer **A**ssisted **I**ntervention |
 | **AMAI**     | **A**pplications of **M**edical **AI**                       |
 
 
