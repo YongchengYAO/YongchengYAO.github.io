@@ -8,22 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher at the [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai), University of Edinburgh. Previously, I was a research assistant at the CU Lab of AI in Radiology (CLAIR), Chinese University of Hong Kong (CUHK), where I worked with Prof. Weitian Chen. I obtained my M.Phil. in Imaging and Interventional Radiology from CUHK in 2020, and my B.Eng. in Biomedical Engineering from South China University of Technology in 2017. 
+I am a PhD student, supervised by [Prof. Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/),  at the [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai), School of Informatics, University of Edinburgh. Previously, I was a research assistant at the CU Lab of AI in Radiology (CLAIR), Chinese University of Hong Kong (CUHK), where I worked with Prof. Weitian Chen. I obtained M.Phil. in Imaging and Interventional Radiology from CUHK in 2020, and B.Eng. in Biomedical Engineering from South China University of Technology in 2017. 
 
 Research Interest
 ------
 
-[**Machine Learning**, **Computer Vision**, **Probabilistic ML**, **Data-efficient ML**] 
+[**Computer Vision**, **Probabilistic ML**, **Trustworthy AI**, **Multimodal Learning**, **Vision Language Model**] 
 
-[**medical image analysis**, **deep learning**, **segmentation**, **registration**, **classification**, **model bias & fairness**, **data imbalance**, **domain adaption**] (updated on Jan 2024)
-
-My research interests lie in the intersection of medical image analysis and deep learning/artificial intelligence (DL/AI). My previous research projects are about DL/AI for medical image segmentation, registration, and classification. In addition to exploring efficient model structures and training strategies, I believe the interpretability of deep learning models is an important research topic. As such, I am also interested in explainable ML, probabilistic ML, and model bias & fairness. Generally, I am open to biomedical computer vision & pattern recognition tasks.
-
-In general, my passion lies not only in developing efficient algorithms to solve technical problems but also in bridging the gap between research and practical applications. I am interested in tackling various challenges in biomedical AI, including data privacy, data imbalance, and domain shift problems. In the coming years, I will focus on the intersection field of medical image analysis and deep learning, with a vision to improve clinical workflow via technical innovation.
-
-Previously, I was working on computational neuroscience. Specifically, we analyzed structural and functional brain MR images using morphometrics, statistical parametric mapping, connectivity analysis, graph-theory-based analysis, and machine learning.
-
-
+[**medical image analysis**, **deep learning**, **segmentation**, **registration**, **classification**, **model bias & fairness**, **domain adaption**] (updated on Sep 2024)
 
 Latest News
 ------
