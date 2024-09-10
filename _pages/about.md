@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student, supervised by [Prof. Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/),  at the [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai), School of Informatics, University of Edinburgh. Previously, I was a research assistant at the CU Lab of AI in Radiology (CLAIR), Chinese University of Hong Kong (CUHK), where I worked with Prof. Weitian Chen. I obtained M.Phil. in Imaging and Interventional Radiology from CUHK in 2020, and B.Eng. in Biomedical Engineering from South China University of Technology in 2017. 
+I am a PhD student, supervised by [Prof. Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/),  at the [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai), School of Informatics, University of Edinburgh (UoE). Previously, I was a research assistant at the CU Lab of AI in Radiology (CLAIR), Chinese University of Hong Kong (CUHK), where I worked with Prof. Weitian Chen. I obtained M.ScR in Biomedical Artificial Intelligence from UoE, M.Phil. in Imaging and Interventional Radiology from CUHK in 2020, and B.Eng. in Biomedical Engineering from the South China University of Technology in 2017. 
 
 Research Interest
 ------
 
 [**Computer Vision**, **Probabilistic ML**, **Trustworthy AI**, **Multimodal Learning**, **Vision Language Model**] 
 
-[**medical image analysis**, **deep learning**, **segmentation**, **registration**, **classification**, **model bias & fairness**, **domain adaption**] (updated on Sep 2024)
+[**medical image analysis**, **deep learning**, **segmentation**, **registration**, **classification**, **model bias & fairness**, **domain adaption**, **topological machine learning**] (updated on Sep 2024)
 
 Latest News
 ------
