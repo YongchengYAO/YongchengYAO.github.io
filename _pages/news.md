@@ -13,7 +13,7 @@ author_profile: true
 * [06/2024] A [video](https://www.youtube.com/watch?v=8DbyavsZhF4) on soft tissue morphometrics in human knee is online.
 * [01/2024] A work on automatic and quantitative T1rho analysis from knee MRI was accepted for presentation @ISMRM’24.
 * [10/2023] A [paper](https://qims.amegroups.org/article/view/118224/html) on unsupervised domain adaptation for osteoarthritis phenotype classification was online (co-first author).
-* [08/2023] I received an offer for seed funding from the [HKSTP Ideation](https://www.hkstp.org/innovate-with-us/passion-matters/incubation-and-acceleration/ideation/) program.
+* [08/2023] I received an offer for seed funding from the HKSTP Ideation program.
 * [07/2023] Our [paper](https://doi.org/10.1016/j.media.2023.103035) “CartiMorph: a framework for automated knee articular cartilage morphometrics” was accepted for publication in Medical Image Analysis (MedIA).
 * [02/2023] Our work “Deep-Learning-Based Knee Articular Cartilage Morphometrics” was accepted for poster presentation @ISMRM’23.
 * [01/2023] We filed a US patent for the invention “System and Method for Articular Cartilage Thickness Mapping and Lesion Quantification”.
