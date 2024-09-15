@@ -23,7 +23,7 @@ Selected Conference Presentations
 <img align="left" width="300" src="/_pages/conference.assets/conference-AMAI24.png" style="margin-right: 15px" /> \
 **Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics**\
 **Yongcheng Yao**, Weitian Chen\
-poster presentation @AMAI'24 (MICCAI workshop) [[poster](https://github.com/YongchengYAO/yongchengyao.github.io/blob/master/_pages/gallery.assets/poster-AMAI24.pdf)]<br />
+poster presentation @AMAI'24 (MICCAI workshop) [[poster](https://github.com/YongchengYAO/yongchengyao.github.io/blob/master/_pages/gallery.assets/poster-AMAI24.png)]<br />
 <br /><br /><br /><br />
 
 <img align="left" width="300" src="/_pages/conference.assets/conference-ISMRM23.png" style="margin-right: 15px" /> \
