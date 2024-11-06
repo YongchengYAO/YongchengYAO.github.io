@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yao is currently a PhD student under the supervision of [Prof. Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/) at the [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai), School of Informatics, University of Edinburgh (UoE). Previously, Yao was a research assistant at the CU Lab of AI in Radiology (CLAIR), Chinese University of Hong Kong (CUHK), where he worked with Prof. Weitian Chen. He obtained an MScR in Biomedical Artificial Intelligence from UoE in 2024, an MPhil in Imaging and Interventional Radiology from CUHK in 2020, and a BEng in Biomedical Engineering from the South China University of Technology in 2017.
+Yongcheng is currently a PhD student at the [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai), School of Informatics, University of Edinburgh (UoE), supervised by [Prof. Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/) and co-supervised by [Prof. Sotirios A. Tsaftari](https://vios.science/team/tsaftaris) . Previously, he was a research assistant at the CU Lab of AI in Radiology (CLAIR), Chinese University of Hong Kong (CUHK), where he worked with Prof. Weitian Chen. He obtained an MScR in Biomedical Artificial Intelligence from UoE in 2024, an MPhil in Imaging and Interventional Radiology from CUHK in 2020, and a BEng in Biomedical Engineering from the South China University of Technology in 2017.
 
 Research Interest
 ------
