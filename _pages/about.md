@@ -20,7 +20,7 @@ Research Interest
 Latest News
 ------
 
-* [10/2024] [CartiMorph Toolbox](https://github.com/YongchengYAO/CartiMorph-Toolbox) is open-source. :rocket:
+* [10/2024] [CartiMorph Toolbox](https://github.com/YongchengYAO/CartiMorph-Toolbox) is open-source.
 
 * [07/2024] A paper “Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics” was accepted @ AMAI’24. 
 
